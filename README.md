@@ -10,7 +10,7 @@
 <p>🚀 Projects: Portfolio Website, Expense Analysis System, Preference Predictor.</p>
 <p>🎯 Goal: To grow as a <strong>Full-Stack Developer</strong> and contribute to impactful solutions.</p>
 <p>🌱 Interests: Web Development, UI Design, AI-based Innovations.</p>
-<p>📫 How to reach me: <strong>alfredantony077@gmail.com</strong></p>
+<p>📫 To reach me: <strong>alfredantony077@gmail.com</strong></p>
 
 <hr>
 
